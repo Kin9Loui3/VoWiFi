@@ -1,0 +1,20 @@
+# T-Mobile & Ultra - US
+IP-CIDR,208.54.0.0/16,🇺🇸
+DOMAIN,208.54.2.67,🇺🇸
+IP-CIDR,66.94.0.0/19,🇺🇸
+DOMAIN,crl.t-mobile.com,🇺🇸
+
+DOMAIN,mascns.t-mobile.com,🇺🇸
+DOMAIN,eas3.msg.t-mobile.com,🇺🇸
+DOMAIN,ns.sipgeo.t-mobile.com,🇺🇸
+DOMAIN,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org,🇺🇸
+DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,🇺🇸
+DOMAIN,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,🇺🇸
+
+
+# Three - UK
+HOST,185.153.237.95,🇬🇧
+HOST,185.153.237.96,🇬🇧
+HOST,185.153.237.97,🇬🇧
+HOST,185.153.237.98,🇬🇧
+HOST,185.153.237.99,🇬🇧
