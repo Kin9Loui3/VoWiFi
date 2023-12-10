@@ -21,8 +21,15 @@ ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 69.78.33.138
 141.207.193.233
 162.115.18.212
+198.230.0.0/16
+68.24.0.0/13 
+208.54.0.0/17
+208.54.128.0/19
 #
 #DOMAIN
 spg.vzw.com
 wo.vzwwo.com
 sg.vzwfemto.com
+epdg.epc.att.net
+sentitlement2.mobile.att.net
+vvm.mobile.att.net
