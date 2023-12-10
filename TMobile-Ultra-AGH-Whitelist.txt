@@ -14,7 +14,7 @@ epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
 epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 #
-#Verizon
+#Verizon - US
 #
 #IP-CIDR
 141.207.0.0/16
