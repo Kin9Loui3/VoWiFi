@@ -13,3 +13,16 @@ ns.sipgeo.t-mobile.com
 epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
 epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+#
+#Verizon
+#
+#IP-CIDR
+141.207.0.0/16
+69.78.33.138
+141.207.193.233
+162.115.18.212
+#
+#DOMAIN
+spg.vzw.com
+wo.vzwwo.com
+sg.vzwfemto.com
