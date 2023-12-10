@@ -33,3 +33,8 @@ sg.vzwfemto.com
 epdg.epc.att.net
 sentitlement2.mobile.att.net
 vvm.mobile.att.net
+#
+#ATT - US
+epdg.epc.att.net
+sentitlement2.mobile.att.net
+vvm.mobile.att.net
